@@ -3,7 +3,11 @@ AR삽질러 - https://arang95.tistory.com/64
 
 나혼자 해보는 JSP WebProject
 
-1. 기능
+Java11
+HTML,CSS,JavaScript
+Oracle
+
+1. 비즈니스 요구사
  - 메인
  - 회원가입
      아이디(중복체크), 비밀번호, 비밀번호확인, 이름, 전화번호, 나이, 성별, 이메일, 우편번호(찾기), 프로필(찾기)
